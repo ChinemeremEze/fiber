@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+    .sec-one, .heading{
+        .rating{
+            display: none;
+        }
+       
+    }
+    
+      .sec-one{
+        display: flex;
+        flex-direction: column;
+
+      }
+       .headingImage{
+        border: 2px solid springgreen;
+        justify-content: start;
+      }
+      .heading{
+        justify-content: end;
+      }
+      .infoBody{
+          display: flex;
+          flex-direction: column;
+      }
+      .sampleView{
+        display: flex;
+        flex-direction: column;
+      }
+      .testimonial{
+         
+        display: flex;
+        flex-direction: column;
+          
+      }
+      .footer{
+        display: flex;
+        flex-direction: column;
+      }
+}

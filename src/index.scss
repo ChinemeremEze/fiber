@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: myFirstFont
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url('https://fonts.google.com/specimen/Inter');
+}
