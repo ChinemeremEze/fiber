@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/fiber/static/css/main.fb63da00.chunk.css",
+    "main.js": "/fiber/static/js/main.e6c3c889.chunk.js",
+    "main.js.map": "/fiber/static/js/main.e6c3c889.chunk.js.map",
+    "runtime-main.js": "/fiber/static/js/runtime-main.89c8536f.js",
+    "runtime-main.js.map": "/fiber/static/js/runtime-main.89c8536f.js.map",
+    "static/css/2.818011ed.chunk.css": "/fiber/static/css/2.818011ed.chunk.css",
+    "static/js/2.195ab173.chunk.js": "/fiber/static/js/2.195ab173.chunk.js",
+    "static/js/2.195ab173.chunk.js.map": "/fiber/static/js/2.195ab173.chunk.js.map",
+    "static/js/3.71e036a6.chunk.js": "/fiber/static/js/3.71e036a6.chunk.js",
+    "static/js/3.71e036a6.chunk.js.map": "/fiber/static/js/3.71e036a6.chunk.js.map",
+    "index.html": "/fiber/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/fiber/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.fb63da00.chunk.css.map": "/fiber/static/css/main.fb63da00.chunk.css.map",
+    "static/js/2.195ab173.chunk.js.LICENSE.txt": "/fiber/static/js/2.195ab173.chunk.js.LICENSE.txt",
+    "static/media/Checkmark.950467d3.svg": "/fiber/static/media/Checkmark.950467d3.svg",
+    "static/media/Hamburger Menu.c4da44b0.svg": "/fiber/static/media/Hamburger Menu.c4da44b0.svg",
+    "static/media/Page Image.58001398.png": "/fiber/static/media/Page Image.58001398.png",
+    "static/media/User Avatar 2.720a3f18.svg": "/fiber/static/media/User Avatar 2.720a3f18.svg",
+    "static/media/User Avatar 32.827af893.svg": "/fiber/static/media/User Avatar 32.827af893.svg",
+    "static/media/User Avatar.0aa7a909.svg": "/fiber/static/media/User Avatar.0aa7a909.svg",
+    "static/media/allSizes.12ae633b.svg": "/fiber/static/media/allSizes.12ae633b.svg",
+    "static/media/code.4e85a89a.svg": "/fiber/static/media/code.4e85a89a.svg",
+    "static/media/hero-Illustration.c89141ed.png": "/fiber/static/media/hero-Illustration.c89141ed.png",
+    "static/media/star.2257c844.svg": "/fiber/static/media/star.2257c844.svg",
+    "static/media/time.b86ed61a.svg": "/fiber/static/media/time.b86ed61a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c8536f.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.195ab173.chunk.js",
+    "static/css/main.fb63da00.chunk.css",
+    "static/js/main.e6c3c889.chunk.js"
+  ]
+}
